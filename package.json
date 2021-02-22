@@ -1,0 +1,24 @@
+{
+  "name": "server-info",
+  "version": "0.1.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node ./server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohammadMRD/server-info.git"
+  },
+  "author": "Mohammad Moradi <MohammadMRD@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MohammadMRD/server-info/issues"
+  },
+  "homepage": "https://github.com/MohammadMRD/server-info#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^3.0.0",
+    "systeminformation": "^5.3.4"
+  }
+}
